@@ -165,7 +165,7 @@ public class ConstUtils {
      * 管理员相关
      */
     public static final String DEFAULT_SUPER_ADMIN_NAME = "admin";
-    public static final String DEFAULT_SUPER_ADMIN_PASS = "admin";
+    public static final String DEFAULT_SUPER_ADMIN_PASS = "icu";
     public static final String DEFAULT_SUPER_ADMINS = "admin";
 
     /**
